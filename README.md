@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author-Manasi Raut
+Author - Manasi Mahadev Raut from Pune
